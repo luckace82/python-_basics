@@ -1,4 +1,4 @@
-a=int(input("enter your aamdaani: "))
+a=12000
 tax1=0
 if a<=10000:
     tax=0
